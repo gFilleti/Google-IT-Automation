@@ -1,0 +1,4 @@
+The file contants was overwritten by this text  right here.
+because it was opened by open function with write-only mode
+as soom the file is opened the old contents will be deleted
+write mode its good for creating report, but see if the file alredy exists

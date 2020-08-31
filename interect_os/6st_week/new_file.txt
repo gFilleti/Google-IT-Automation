@@ -1,0 +1,2 @@
+This will be printed in the terminal screen if  its not redirected with >  ( redirect but overright) >> ( redirect and append)
+This will be printed in the terminal screen if  its not redirected with >  ( redirect but overright) >> ( redirect and append)

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "./stdou_example.py", line 16, in <module>
+    raise ValueError("Now We generate an error to STDERR")
+ValueError: Now We generate an error to STDERR
